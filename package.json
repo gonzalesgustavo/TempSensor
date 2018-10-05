@@ -1,0 +1,21 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "Plant location monitor",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ggonza",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "emailjs": "^2.2.0",
+    "express": "^4.16.3",
+    "serialport": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
